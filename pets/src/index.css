@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+:root {
+  --color-primary: #F1CDB3;
+  --color-dark-s: #CDCDCD;
+  --color-light-s: #FAFAFA;
+  --color-light-xl: #FFFFFF;
+  --color-dark-3xl: #292929;
+}
+.custom {
+  width: 100%;
+}
+.custom h1 {
+  color: var(--color-primary);
+  cursor: pointer;
+}
+.custom h6 {
+  color: var(--color-primary);
+  cursor: pointer;
+}
+
+.custom .nav-link {
+  color: var(--color-dark-s);
+}
+.custom .nav-link:hover {
+  color: var(--color-light-s);
+}
+.wrapper {
+  max-width: 1200px;
+  margin: auto;
+}
+.marg {
+  margin: auto;
+}
+body,html {
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  background-image: url('img/startScreen.jpg');
+  background-size: cover;
+}
