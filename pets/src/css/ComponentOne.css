@@ -33,4 +33,5 @@
 }
 .btn-one:hover {
     background-color: var(--color-primary);
+    transition: background-color 3s ease;
 }
