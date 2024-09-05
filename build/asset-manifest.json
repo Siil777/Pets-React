@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e129940e.css",
+    "main.js": "/static/js/main.0d2366b3.js",
+    "static/js/453.6a974093.chunk.js": "/static/js/453.6a974093.chunk.js",
+    "static/media/puppy.png": "/static/media/puppy.6581e90941ded707b1b7.png",
+    "static/media/startScreen.jpg": "/static/media/startScreen.a611689e5276f2d12d0b.jpg",
+    "index.html": "/index.html",
+    "main.e129940e.css.map": "/static/css/main.e129940e.css.map",
+    "main.0d2366b3.js.map": "/static/js/main.0d2366b3.js.map",
+    "453.6a974093.chunk.js.map": "/static/js/453.6a974093.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e129940e.css",
+    "static/js/main.0d2366b3.js"
+  ]
+}
