@@ -44,11 +44,10 @@ code {
 .marg {
   margin: auto;
 }
-body,html {
-  padding: 0;
+body, html {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   scroll-behavior: smooth;
   overflow-x: hidden;
-  background-image: url('img/startScreen.jpg');
-  background-size: cover;
 }

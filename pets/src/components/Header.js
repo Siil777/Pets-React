@@ -9,7 +9,8 @@ const Header = () => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <Navbar expand='lg' className='d-flex justify-content-between'>
+    <header className='p-5 wrapper'>
+        <Navbar expand='lg' className='d-flex justify-content-between'>
         <Navbar.Brand href='#'>
           Cozy House
           <h6>Shelter for pets in Boston</h6>
@@ -34,7 +35,9 @@ const Header = () => {
           </Nav>
         </Navbar.Collapse>
     </Navbar>
+    </header>
   );
+    
 }
 
 export default Header;

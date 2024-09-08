@@ -2,6 +2,7 @@
   "name": "pets",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://siil777.github.io/Pets-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -16,6 +17,7 @@
   },
   "scripts": {
     "start": "node node_modules/react-scripts/bin/react-scripts start",
+    "deploy": "gh-pages -d build",
     "build": "node node_modules/react-scripts/bin/react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -37,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "sass": "^1.78.0"
   }
 }
