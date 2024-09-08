@@ -2,8 +2,6 @@ import {NavDropDown, Nav, Container, Navbar} from 'react-bootstrap';
 import { useEffect } from 'react';
 import puppy from '../img/puppy.png';
 import  '../css/ComponentOne.css';
-
-
 const One =()=> {
     return(
         <Container>
