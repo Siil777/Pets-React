@@ -5,13 +5,14 @@ import '../css/ComponentTwo.css';
 
 const ComponentTwo =()=> {
     return(
-        <main className='col-md-12 bg-color d-lg-flex d-flex justify-content-center ps-5 pe-5'>
-            <div className="d-flex col-md-8 flex-column-reverse flex-lg-row align-items-center mt-5">
+        <div className='wrapper'>
+                    <main className='col-lg-12 bg-color d-lg-flex d-flex justify-content-center ps-5 pe-5'>
+            <div className="d-flex col-md-10 flex-column-reverse flex-lg-row align-items-center mt-5">
                 <div className='py-sm-5'>
                     <img src={imgAbout} style={{height: '40vh'}} alt='about'/>
                 </div>
                     <div className='ms-lg-5 d-block cust-s'>
-                    <div className='custom-style-h3 col-10'>
+                    <div className='custom-style-h3 col-md-6 col-lg-10'>
                             About the shelter “Cozy House”
                     </div>
                     <div className='p-style mt-4'>
@@ -28,6 +29,7 @@ const ComponentTwo =()=> {
                     </div>
                 </div>
         </main>
+        </div>
     );
 }
 
