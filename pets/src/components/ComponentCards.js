@@ -37,9 +37,7 @@ const Cards=()=>{
                             <div className='text-center'>
                                 {card.name}
                             <div>
-                                <div>
-                                    Learn more
-                                </div>
+                                <Button color="secondary">Learn more</Button>
                             </div>
                             </div>
                         </div>
