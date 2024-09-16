@@ -5,7 +5,6 @@ import '../App.css';
 import '../css/Header.css';
 
 const Header = () => {
-  console.log(useState);
   const [isOpen, setOpen] = useState(false);
 
   return (

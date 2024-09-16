@@ -1,6 +1,6 @@
 import {NavDropDown, Nav, Container, Navbar} from 'react-bootstrap';
 import { useEffect } from 'react';
-import puppy from '../img/puppy.png';
+import puppy from '../assets/puppy.png';
 import  '../css/ComponentOne.scss';
 const One =()=> {
     return(
@@ -14,7 +14,7 @@ const One =()=> {
                             He or she will love you more than anybody else in the world, you will see!
                         </p>
                         <div>
-                        <div id='btn' className='btn-one col-sm-6 col-xl-4 d-flex justify-content-center align-items-center mt-xl-2 py-3'><a>Make a friend</a></div>
+                        <div id='btn' className='btn-one col-sm-6 col-md-4 col-xl-4 d-flex justify-content-center align-items-center py-2 mt-xl-2'><a>Make a friend</a></div>
                         </div>
                     </div>
                     <div className='mt-5 pe-2'>

@@ -2,7 +2,8 @@ import './App.css';
 import Header from './components/Header.js';
 import ComponentOne from './components/ComponentOne.js';
 import ComponentTwo from './components/ComponentTwo.js';
-import bg from './img/startScreen.jpg';
+import practice from './components/practice.js';
+import bg from './assets/startScreen.jpg';
 import { useEffect } from 'react';
 
 const App =()=> {

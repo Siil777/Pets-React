@@ -1,4 +1,4 @@
-import imgAbout from '../img/about-pets.svg';
+import imgAbout from '../assets/about-pets.svg';
 import '../css/ComponentTwo.css';
 
 
