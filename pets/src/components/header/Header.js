@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
 import { Nav, Navbar } from 'react-bootstrap';
 import Hamburger from 'hamburger-react';
-import '../App.css';
-import '../css/Header.css';
+import './header.scss';
 
 const Header = () => {
   const [isOpen, setOpen] = useState(false);

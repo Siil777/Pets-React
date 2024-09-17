@@ -1,7 +1,7 @@
 import './App.css';
-import Header from './components/Header.js';
-import ComponentOne from './components/ComponentOne.js';
-import ComponentTwo from './components/ComponentTwo.js';
+import Header from './components/header/Header.js';
+import ComponentOne from './components/sectionone/sectionone.js';
+import ComponentTwo from './components/sectiontwo/sectiontwo.js';
 import practice from './components/practice.js';
 import bg from './assets/startScreen.jpg';
 import { useEffect } from 'react';

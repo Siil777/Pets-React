@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import './../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js';
-import ComponentCards from './components/ComponentCards.js';
+import ComponentCards from './components/cards/PetsCards.js';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

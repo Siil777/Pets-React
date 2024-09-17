@@ -1,5 +1,5 @@
-import imgAbout from '../assets/about-pets.svg';
-import '../css/ComponentTwo.css';
+import imgAbout from '../../assets/about-pets.svg';
+import './sectiontwo.scss';
 
 
 
