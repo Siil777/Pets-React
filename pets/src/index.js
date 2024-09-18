@@ -6,13 +6,14 @@ import reportWebVitals from './reportWebVitals';
 import './../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js';
 import ComponentCards from './components/cards/PetsCards.js';
+import ParrentComponent from './components/parenComponentCardModal/ParentComponent.js';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
     <div className='p-5' style={{backgroundColor: 'var(--color-light-l)'}}>
-      <ComponentCards />
+      <ParrentComponent />
     </div>
   </React.StrictMode>
 );
