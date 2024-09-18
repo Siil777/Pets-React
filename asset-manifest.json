@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Pets-React/static/css/main.24cecc78.css",
-    "main.js": "/Pets-React/static/js/main.af8bcca8.js",
+    "main.css": "/Pets-React/static/css/main.1471376f.css",
+    "main.js": "/Pets-React/static/js/main.923e242b.js",
     "static/js/453.6a974093.chunk.js": "/Pets-React/static/js/453.6a974093.chunk.js",
     "static/media/puppy.png": "/Pets-React/static/media/puppy.6581e90941ded707b1b7.png",
     "static/media/startScreen.jpg": "/Pets-React/static/media/startScreen.a611689e5276f2d12d0b.jpg",
     "static/media/about-pets.svg": "/Pets-React/static/media/about-pets.c9cb169ee546c486ac262dcfb0bca802.svg",
     "index.html": "/Pets-React/index.html",
-    "main.24cecc78.css.map": "/Pets-React/static/css/main.24cecc78.css.map",
-    "main.af8bcca8.js.map": "/Pets-React/static/js/main.af8bcca8.js.map",
+    "main.1471376f.css.map": "/Pets-React/static/css/main.1471376f.css.map",
+    "main.923e242b.js.map": "/Pets-React/static/js/main.923e242b.js.map",
     "453.6a974093.chunk.js.map": "/Pets-React/static/js/453.6a974093.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24cecc78.css",
-    "static/js/main.af8bcca8.js"
+    "static/css/main.1471376f.css",
+    "static/js/main.923e242b.js"
   ]
 }
